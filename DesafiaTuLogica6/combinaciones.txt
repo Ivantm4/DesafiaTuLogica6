@@ -1,0 +1,4 @@
+Fecha de cierre: 2024-05-03 08:31:03
+Combinación: 
+Jugador [nombre=Prado, arma=veneno, habitaciones=salón, horaPartida=Fri May 03 08:30:33 CEST 2024]
+
